@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Franklin County Eviction Monitor",
     "section": "",
-    "text": "Welcome to the Franklin County Evivion Monitor Website. This was a community service project started by Jeff Beihl of Beihl Consluting. There is a lack of comprehensive data around evicition. The Center for Urban and Regional Analysis along with JusticeTech have come together to create tools and datasets to help advocates and policymakers greater insight into evicition trends and issues within Franklin County.\nPlease contact CURA at cura@osu.edu with any questions about the eviction data, to subscribe, or to unsubscrib from updates.\nBelow is a blog containing all the infromation from the oringal Franklin County Monitor."
+    "text": "Welcome to the Franklin County Eviction Monitor Website. This was a community service project started by Jeff Beihl of Beihl Consulting. There is a lack of comprehensive data around eviction. The Center for Urban and Regional Analysis along with JusticeTech have come together to create tools and datasets to help advocates and policymakers greater insight into eviction trends and issues within Franklin County.\nPlease contact CURA at cura@osu.edu with any questions about the eviction data, to subscribe, or to unsubscribe from updates.\nBelow is a blog containing all the information from the original Franklin County Monitor."
   },
   {
     "objectID": "index.html#monthly-eviction-filings",
@@ -35,11 +35,11 @@
     "text": "Interactive Map of 2025 Eviction Filing Rates for Renter-Occupied Housing Units by Census Tracts\nTo use the interactive map below hover over any census tract of interest to see the number of cases wihtin, the number of rental units and the rate of evicitions per rental unit.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   },
   {
-    "objectID": "index.html#top-20-census-tracts-by-eviction-rate-updated-montly",
-    "href": "index.html#top-20-census-tracts-by-eviction-rate-updated-montly",
+    "objectID": "index.html#top-20-census-tracts-by-eviction-rate-updated-monthly",
+    "href": "index.html#top-20-census-tracts-by-eviction-rate-updated-monthly",
     "title": "Franklin County Eviction Monitor",
-    "section": "Top 20 Census Tracts by Eviction Rate (updated montly)",
-    "text": "Top 20 Census Tracts by Eviction Rate (updated montly)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTract\nEviction Filings (2025)\nRenter Households\nEvictions per 1,000 Renters\n\n\n\n\n5\nTract 6393\n1113.0\n1041.0\n1069.2\n\n\n20\nTract 0700\n122.0\n877.0\n139.1\n\n\n268\nTract 6721\n10.0\n225.0\n44.4\n\n\n292\nTract 4001\n47.0\n1168.0\n40.2\n\n\n179\nTract 5810\n44.0\n1357.0\n32.4\n\n\n38\nTract 8500\n96.0\n2971.0\n32.3\n\n\n149\nTract 9390\n14.0\n496.0\n28.2\n\n\n197\nTract 9326\n59.0\n2123.0\n27.8\n\n\n33\nTract 8710\n13.0\n489.0\n26.6\n\n\n252\nTract 4002\n56.0\n2698.0\n20.8\n\n\n18\nTract 0300\n44.0\n2196.0\n20.0\n\n\n157\nTract 8730\n23.0\n1362.0\n16.9\n\n\n284\nTract 8167\n13.0\n781.0\n16.6\n\n\n255\nTract 9405\n1.0\n67.0\n14.9\n\n\n37\nTract 8400\n7.0\n484.0\n14.5\n\n\n106\nTract 6921\n26.0\n1819.0\n14.3\n\n\n243\nTract 9802\n3.0\n220.0\n13.6\n\n\n296\nTract 0202\n9.0\n661.0\n13.6\n\n\n59\nTract 6238\n7.0\n530.0\n13.2\n\n\n229\nTract 9220\n17.0\n1301.0\n13.1"
+    "section": "Top 20 Census Tracts by Eviction Rate (updated monthly)",
+    "text": "Top 20 Census Tracts by Eviction Rate (updated monthly)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTract\nEviction Filings (2025)\nRenter Households\nEvictions per 1,000 Renters\n\n\n\n\n5\nTract 6393\n1113.0\n1041.0\n1069.2\n\n\n20\nTract 0700\n122.0\n877.0\n139.1\n\n\n268\nTract 6721\n10.0\n225.0\n44.4\n\n\n292\nTract 4001\n47.0\n1168.0\n40.2\n\n\n179\nTract 5810\n44.0\n1357.0\n32.4\n\n\n38\nTract 8500\n96.0\n2971.0\n32.3\n\n\n149\nTract 9390\n14.0\n496.0\n28.2\n\n\n197\nTract 9326\n59.0\n2123.0\n27.8\n\n\n33\nTract 8710\n13.0\n489.0\n26.6\n\n\n252\nTract 4002\n56.0\n2698.0\n20.8\n\n\n18\nTract 0300\n44.0\n2196.0\n20.0\n\n\n157\nTract 8730\n23.0\n1362.0\n16.9\n\n\n284\nTract 8167\n13.0\n781.0\n16.6\n\n\n255\nTract 9405\n1.0\n67.0\n14.9\n\n\n37\nTract 8400\n7.0\n484.0\n14.5\n\n\n106\nTract 6921\n26.0\n1819.0\n14.3\n\n\n243\nTract 9802\n3.0\n220.0\n13.6\n\n\n296\nTract 0202\n9.0\n661.0\n13.6\n\n\n59\nTract 6238\n7.0\n530.0\n13.2\n\n\n229\nTract 9220\n17.0\n1301.0\n13.1"
   },
   {
     "objectID": "index.html#and-2025-comparisons-updated-quarterly",
